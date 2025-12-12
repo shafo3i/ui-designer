@@ -1,0 +1,5 @@
+{
+  "name": "UI Designer",
+  "description": "An AI-powered UI design assistant that generates React and Tailwind CSS components with live previews using the Gemini API.",
+  "requestFramePermissions": []
+}
